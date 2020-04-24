@@ -1,0 +1,20 @@
+@font-face {
+    font-family: netflix; 
+    src: url(../font/NetflixSans_W_Md.woff2); 
+            }
+
+body {color: white; background-color: black;}
+
+.text_aling_center {text-align: center;}
+
+p h1 h2 h3 h4 h5 h6{font-family: netflix; -webkit-font-smoothing: antialiased;-webkit-font-smoothing: antialiased;}
+
+h1 {font-size: 64px; font-weight: 700;}
+h2 {font-size: 26px; font-weight: 400;}
+h3 {font-size: 19.2px;}
+h4 {font-size:30px; font-weight: 400; }
+h5 {font-size: 50px;}
+h6 {font-size: 19.5px;}
+
+p{color:red; font-size: 44px;}
+

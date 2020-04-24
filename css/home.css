@@ -1,0 +1,21 @@
+
+
+
+.our_story_container {width:100%; background-image: url(../img/Netflix/KR-ko-20200302-popsignuptwoweeks-perspective_alpha_website_large.jpg);box-sizing: border-box;}
+.our_story_header_wapper {width:100%;background-color: transparent; transition: background-color 0.5s; position: relative; max-width: 1920px; margin: 0 auto; padding-top:20px; display: block;}
+
+.our_story_cards {margin :0 auto;}
+.our_story_card {position: relative; border-bottom: 8px solid #222; margin-bottom: 0; background: transparent; color: white;}
+
+.hero_card {padding:70px 45px; }
+.our_story_card_background {width:100%;top: -100px;position: absolute; overflow: hidden; display: block;}
+
+.concord_img_gradient {background: rgba(0, 0, 0, 0.4);}
+
+.our_story_card_text { max-width: 950px;position: relative;width: 100%;padding: 75px 0;margin: 0 auto;text-align: center;z-index: 1;}
+
+.our_story_card_title {margin: 0 155px;text-align: center;}
+.our_story_card_subtitle {margin:15px 155px;}
+.our_story_card_subtitle2 {margin: 0px 158.281px;}
+
+.animation_card_container {width:100%; padding:70px 45px;}
